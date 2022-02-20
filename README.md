@@ -19,7 +19,7 @@
 
 hi, i'm [Shaun Liebenberg](http://www.liebies.co.za/), a passionate self-taught full stack developer and a senior software consultant from South Africa. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I have a passion for everything Iot.
 
-  <img align="right" alt="GIF" src="https://github.com/liebies/ShaunLiebenberg/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/liebies/ShaunLiebenberg/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:Shaun@liebies.co.za) :)
 - 💬 ask me about anything, I am happy to help;
