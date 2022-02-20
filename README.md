@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liebies&label=Profile%20views&color=0e75b6&style=flat" alt="liebies" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liebies" alt="liebies" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shaunliebenberg" target="blank"><img src="https://img.shields.io/twitter/follow/shaunliebenberg?logo=twitter&style=for-the-badge" alt="shaunliebenberg" /></a> </p>
 
 - 🌱 I’m currently learning **Tailwinds, AZ-204,AZ-102**
