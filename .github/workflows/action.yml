@@ -12,7 +12,7 @@ jobs:
     name: Update the WakaTime Stat
     runs-on: ubuntu-latest
     steps:  
-      - uses: LieBieS/LieBieS@main
+      - uses: LieBieS/LieBieS.github/workflows@main
         env:
           # WakaTime API key stored in secrets, do not directly paste it here
-          WAKATIME_API_KEY: ${{ env.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
