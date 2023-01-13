@@ -32,7 +32,7 @@
 
 <p>
 <!-- GitHub Stats -->
-[LieBieS's GitHub stats](https://github-readme-stats.vercel.app/api?username=liebies&show_icons=true&theme=transparent)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=liebies&show_icons=true&theme=transparent"/>
 
 
 <!-- Most Used Languages -->
