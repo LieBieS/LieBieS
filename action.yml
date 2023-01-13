@@ -1,4 +1,4 @@
-name: WakaTime status update
+tname: WakaTime status update
 
 on:
  push:
@@ -15,4 +15,4 @@ jobs:
       - uses: LieBieS/LieBieS@main
         env:
           # WakaTime API key stored in secrets, do not directly paste it here
-          WAKATIME_API_KEY: ${{ env.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ Secrets.WAKATIME_API_KEY }}
