@@ -13,6 +13,6 @@ jobs:
     runs-on: ubuntu-latest    
     steps:  
       - uses: LieBieS/LieBieS/.github/workflows@main
-        secrets:
+        env:
           # WakaTime API key stored in secrets, do not directly paste it here
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
