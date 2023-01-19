@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/shaunliebenberg" target="blank"><img src="https://img.shields.io/twitter/follow/shaunliebenberg?logo=twitter&style=for-the-badge" alt="shaunliebenberg" /></a> </p>
 
-- 🌱 I’m currently learning **Tailwinds, AZ-204,AZ-102**
+- 🌱 I’m currently learning **PrimeNG, SvelteKit, AZ-204, AZ-400**
 
-- 💬 Ask me about **C#, SQL, VB.Net, .Net6**
+- 💬 Ask me about **C#, SQL, .Net, AngularJS, Angular, JS, TS, API's**
 
-- 📫 How to reach me **liebies.sl@gmail.com**
+- 📫 How to reach me **liebies.sl(@)gmail.com**
 
 - ⚡ Fun fact **Never trust a dolphin, they are only smiling on the outside.**
 
