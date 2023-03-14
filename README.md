@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shaunliebenberg" target="blank"><img src="https://img.shields.io/twitter/follow/shaunliebenberg?logo=twitter&style=for-the-badge" alt="shaunliebenberg" /></a> </p>
 
-- 🌱 I’m currently learning **PrimeNG, SvelteKit, AZ-204, AZ-400**
+- 🌱 I’m currently learning **PrimeNG, SvelteKit, AZ-400**
 
 - 💬 Ask me about **C#, SQL, .Net, AngularJS, Angular, JS, TS, API's**
 
