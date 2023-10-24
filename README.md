@@ -12,7 +12,7 @@
 - 📫 How to reach me **liebies.sl(@)gmail.com**
 
 - ⚡ Fun fact **Never trust a dolphin, they are only smiling on the outside.**
-- 
+  
 <h3 align="left">Kommodek CTRM Status</h3>
 <table>
    <thead>
